@@ -11,11 +11,7 @@ This project is a desktop-based IFC file viewer built using WPF and the xBIM lib
 - **Optimized Performance**: Efficiently renders large IFC files.
 
 ## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/wpf-desktop-viewer.git
-   cd wpf-desktop-viewer
-   ```
+1. Clone the repository.
 2. Open the project in Visual Studio.
 3. Restore NuGet packages.
 4. Build and run the application.
