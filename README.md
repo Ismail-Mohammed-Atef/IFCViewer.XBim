@@ -1,4 +1,4 @@
-# WPF Desktop Viewer
+# XBim Viewer
 
 ## Overview
 This project is a desktop-based IFC file viewer built using WPF and the xBIM library. It provides a user-friendly interface for loading, viewing, and interacting with IFC models on Windows.
